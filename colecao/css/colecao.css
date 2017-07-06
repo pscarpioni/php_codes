@@ -1,0 +1,19 @@
+#title{
+    font-family: 'Anton', sans-serif;
+    color: #FF4500;
+    text-align: center;
+    font-size: 50px;
+}
+
+#text{
+    font-family: 'Anton', sans-serif;
+    color: #FF4500;
+    text-align: center;
+    font-size: 25px;
+}
+
+#box{
+    width: 500px;
+    height: 500px;
+    background-color: #FFFFFF;
+}
